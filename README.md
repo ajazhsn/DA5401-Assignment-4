@@ -1,12 +1,5 @@
 # Credit Card Fraud Detection Using GMM-Based Synthetic Sampling
 
-<p align="center">
-  <b>Name:</b> Ajaz Hussain <br>
-  <b>Roll No.:</b> DA25M006
-</p>
-
----
-
 ## Introduction  
 
 Credit card fraud detection is a major challenge in financial security. The dataset analyzed in this project contains more than **284,000 transactions**, with fraudulent activity accounting for only about **0.17%** of all records. This severe imbalance causes standard classifiers to be biased towards the majority (valid) class, resulting in poor fraud detection.  
